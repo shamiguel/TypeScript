@@ -1,0 +1,2 @@
+- Created my TS repo! 
+- Got it set up. 
