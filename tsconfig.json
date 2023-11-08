@@ -1,6 +1,6 @@
-{
+{   "include": ["src/**/*"],
     "compilerOptions": {
         "target": "es5",
-        "outDir": "look at me!"
+        "outDir": "dist"
     }
 }
